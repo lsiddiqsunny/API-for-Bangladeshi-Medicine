@@ -1,4 +1,4 @@
-# Web-Crawler-for-Bangladeshi-Medicine
+# API for Bangladeshi Medicine
 
 A web crawler for medicine list from [Square Pharma](http://www.squarepharma.com.bd/) and [Medex](https://medex.com.bd/)
 
